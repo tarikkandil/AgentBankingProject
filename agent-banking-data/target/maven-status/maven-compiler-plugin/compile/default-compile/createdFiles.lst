@@ -1,0 +1,7 @@
+com\sopra\banking\digital\agentbanking\data\dao\AgentRepository.class
+com\sopra\banking\digital\agentbanking\data\entity\AddressEntity.class
+com\sopra\banking\digital\agentbanking\data\entity\CustomerListener.class
+com\sopra\banking\digital\agentbanking\data\entity\CustomerEntity.class
+com\sopra\banking\digital\agentbanking\data\dao\CustomerRepository.class
+com\sopra\banking\digital\agentbanking\data\entity\AbstractEntity.class
+com\sopra\banking\digital\agentbanking\data\entity\AgentEntity.class

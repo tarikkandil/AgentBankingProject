@@ -1,0 +1,9 @@
+com\sopra\banking\digital\agentbanking\web\security\SimpleCORSFilter.class
+com\sopra\banking\digital\agentbanking\web\exception\DataFormatException.class
+com\sopra\banking\digital\agentbanking\web\AgentBankingApplication.class
+com\sopra\banking\digital\agentbanking\web\ServletInitializer.class
+com\sopra\banking\digital\agentbanking\web\controller\CustomerRestController.class
+com\sopra\banking\digital\agentbanking\web\security\WebSecurityConfig.class
+com\sopra\banking\digital\agentbanking\web\exception\ResourceNotFoundException.class
+com\sopra\banking\digital\agentbanking\web\controller\AgentRestController.class
+com\sopra\banking\digital\agentbanking\web\controller\AbstractRestHandler.class

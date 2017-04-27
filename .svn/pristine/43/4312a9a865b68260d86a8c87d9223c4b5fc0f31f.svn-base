@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: agent-banking-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: flepora
+Implementation-Vendor-Id: com.sopra.banking.digital
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/agent-bankin
+ g/agent-banking-web/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
